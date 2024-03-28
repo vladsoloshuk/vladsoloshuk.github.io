@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkanime_world=self.webpackChunkanime_world||[]).push([[266],{8660:function(n,e,r){r.d(e,{C:function(){return t},T:function(){return c}});var u=r(5048),c=function(){return(0,u.I0)()},t=u.v9},1266:function(n,e,r){r.r(e);var u=r(2791),c=r(8660),t=r(6334),i=r(184);e.default=function(n){var e=(0,c.T)();return(0,u.useEffect)((function(){e((0,t.iX)("Home")),e((0,t.Rr)(["search",!1]))})),(0,i.jsx)("section",{className:"l-page",children:(0,i.jsx)("div",{children:"Home page"})})}}}]);
-//# sourceMappingURL=266.01f2275e.chunk.js.map

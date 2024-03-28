@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkanime_world=self.webpackChunkanime_world||[]).push([[354],{7354:function(r,e,n){n.r(e);var u=n(184);e.default=function(){return(0,u.jsx)("div",{children:"Error!"})}}}]);
-//# sourceMappingURL=354.d8fd6057.chunk.js.map
