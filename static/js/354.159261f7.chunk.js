@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkanime_world=self.webpackChunkanime_world||[]).push([[354],{7354:(s,a,e)=>{e.r(a),e.d(a,{default:()=>l});var d=e(184);const l=()=>(0,d.jsxs)("section",{className:"p-dashboards p-dashboards-show x1200 l-page",children:[(0,d.jsx)("div",{className:"block2"}),(0,d.jsx)("header",{className:"head",children:"This page will be added soon!"})]})}}]);
+//# sourceMappingURL=354.159261f7.chunk.js.map
